@@ -13,7 +13,7 @@ Usage
 
 Run the script using Python:
 
-    python script.py
+    python3 main.py
 
 You will be prompted to enter an IP address. The script will then start sending connection attempts.
 Configuration
